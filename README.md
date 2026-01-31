@@ -14,6 +14,7 @@ The project focuses on practical Linux administration skills such as user handli
 - Text Editor (Vim, Nano, or VS Code)
 
 ![jenkins](images/add_user.png)
+
 ## 📂 Project Description
 The shell script performs the following operations:
 - Add, delete, and modify Linux user accounts
