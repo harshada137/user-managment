@@ -13,7 +13,7 @@ The project focuses on practical Linux administration skills such as user handli
 - Git & GitHub
 - Text Editor (Vim, Nano, or VS Code)
 
-![jenkins](images/add_user.png)
+![jenkins](Images/add_user.png)
 
 ## 📂 Project Description
 The shell script performs the following operations:
